@@ -1,0 +1,17 @@
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\Cliente\bin\Debug\Base de Datos\miDB.mdf
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\Cliente\bin\Debug\Cliente.exe
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\Cliente\bin\Debug\ObjetoRemoto.dll
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\Cliente\bin\Debug\ObjetoRemoto.pdb
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\Cliente\bin\Debug\ObjetoRemoto.dll.config
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\Cliente\obj\Debug\Cliente.Cliente.resources
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\Cliente\obj\Debug\Cliente.Login.resources
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\Cliente\obj\Debug\Cliente.Registro.resources
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\Cliente\obj\Debug\Cliente.exe
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\Cliente\obj\Debug\Cliente.pdb

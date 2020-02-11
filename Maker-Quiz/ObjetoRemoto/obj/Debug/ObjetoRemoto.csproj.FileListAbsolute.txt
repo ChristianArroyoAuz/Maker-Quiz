@@ -1,0 +1,8 @@
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\ObjetoRemoto\bin\Debug\Base de Datos\miDB.mdf
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\ObjetoRemoto\bin\Debug\ObjetoRemoto.dll.config
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\ObjetoRemoto\bin\Debug\ObjetoRemoto.dll
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\ObjetoRemoto\bin\Debug\ObjetoRemoto.pdb
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\ObjetoRemoto\obj\Debug\ObjetoRemoto.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\ObjetoRemoto\obj\Debug\ObjetoRemoto.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\ObjetoRemoto\obj\Debug\ObjetoRemoto.dll
+C:\Users\Christian Arroyo\Desktop\Maker-Quiz\ObjetoRemoto\obj\Debug\ObjetoRemoto.pdb
